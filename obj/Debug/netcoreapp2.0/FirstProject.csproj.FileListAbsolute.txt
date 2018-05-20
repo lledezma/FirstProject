@@ -1,0 +1,11 @@
+/Users/luis/Projects/FirstProject/bin/Debug/netcoreapp2.0/FirstProject.deps.json
+/Users/luis/Projects/FirstProject/bin/Debug/netcoreapp2.0/FirstProject.runtimeconfig.json
+/Users/luis/Projects/FirstProject/bin/Debug/netcoreapp2.0/FirstProject.runtimeconfig.dev.json
+/Users/luis/Projects/FirstProject/bin/Debug/netcoreapp2.0/FirstProject.dll
+/Users/luis/Projects/FirstProject/bin/Debug/netcoreapp2.0/FirstProject.pdb
+/Users/luis/Projects/FirstProject/obj/Debug/netcoreapp2.0/FirstProject.csprojResolveAssemblyReference.cache
+/Users/luis/Projects/FirstProject/obj/Debug/netcoreapp2.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/luis/Projects/FirstProject/obj/Debug/netcoreapp2.0/FirstProject.AssemblyInfoInputs.cache
+/Users/luis/Projects/FirstProject/obj/Debug/netcoreapp2.0/FirstProject.AssemblyInfo.cs
+/Users/luis/Projects/FirstProject/obj/Debug/netcoreapp2.0/FirstProject.dll
+/Users/luis/Projects/FirstProject/obj/Debug/netcoreapp2.0/FirstProject.pdb
